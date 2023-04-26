@@ -4,7 +4,7 @@ from typing import List
 # Declaring variables for setup functions
 PROJECT_NAME = "Face Authenticator"
 VERSION = "0.0.1"
-AUTHOR = "Rishav Dash"
+AUTHOR = "krishnakanth"
 DESRCIPTION = "This is a Face Authenticator Project"
 
 
